@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6fff983c_27efd321",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2026-09-25T15:32:37Z",
+      "side": 1,
+      "message": "I\u0027d like someone with more knowledge to check this, I\u0027m not blindly merging AI code",
+      "revId": "c19c10904226ee51669bf89dde21cb152d54badb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
